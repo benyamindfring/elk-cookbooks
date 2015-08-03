@@ -4,7 +4,6 @@ DEPENDENCIES
     revision: c112a02e50f40dfd93bbe9326e2e695e4a06e59a
   kibana
     git: git://github.com/benyamindfring/chef-kibana.git
-    revision: 38157056cb9e327503ef1895c986400fafff7b36
   logstash
     git: git://github.com/benyamindfring/chef-logstash.git
     revision: 0facb1dae7b96b1d6c9740ce0e1e79c099bca64f
